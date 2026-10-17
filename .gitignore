@@ -1,0 +1,11 @@
+# Research documents, literature and spreadsheets are intentionally included.
+# Only operating-system/editor files and development secrets are ignored.
+.DS_Store
+~$*
+*.tmp
+*.bak
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example

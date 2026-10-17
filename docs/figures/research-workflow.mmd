@@ -1,0 +1,17 @@
+flowchart TD
+    subgraph documented["Documented study-design work"]
+        A["Research question and candidate variables"] --> B["Initial questionnaire drafted by Jabed"]
+        B --> C["Academic review and questionnaire refinement"]
+    end
+    subgraph proposed["Proposed empirical research"]
+        D["Study approvals, consent and recruitment"] --> E["Household survey data"]
+        E --> F["Thermodynamic and simulation estimates"]
+        F --> G["Analysis across demographic and socioeconomic groups"]
+        G --> H["Energy-prediction model development"]
+        H --> I["Proposed evaluation: overall and group-level errors"]
+    end
+    C -.-> D
+    classDef documented fill:#e6f3f1,stroke:#21666a,color:#183b3b
+    classDef planned fill:#f2f4f7,stroke:#6b7280,color:#26313d
+    class A,B,C documented
+    class D,E,F,G,H,I planned

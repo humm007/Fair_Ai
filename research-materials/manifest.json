@@ -1,0 +1,163 @@
+[
+  {
+    "original": ".DS_Store",
+    "repository_path": "research-materials/local-metadata/.DS_Store",
+    "organised_path": "local-metadata/.DS_Store",
+    "bytes": 10244,
+    "sha256": "9f0547507bc330ec703caa93c42bd48bfe74a9510fb9932d0c9fab699bf3390c"
+  },
+  {
+    "original": "1-s2.0-S0378778819317505-main.pdf",
+    "repository_path": "research-materials/literature/energy-and-occupancy/1-s2.0-S0378778819317505-main.pdf",
+    "organised_path": "literature/energy-and-occupancy/1-s2.0-S0378778819317505-main.pdf",
+    "bytes": 2462393,
+    "sha256": "e763ef57fe616df6dfc22c578809bc1e079335c8518a1416f44900ff09f0a5dd"
+  },
+  {
+    "original": "1-s2.0-S2352710223010513-main.pdf",
+    "repository_path": "research-materials/literature/energy-and-occupancy/1-s2.0-S2352710223010513-main.pdf",
+    "organised_path": "literature/energy-and-occupancy/1-s2.0-S2352710223010513-main.pdf",
+    "bytes": 4398730,
+    "sha256": "e26ef16c3c89858a46fc71758dd8fb449b6456d3024cf104db5dc306a359a31b"
+  },
+  {
+    "original": "1-s2.0-S2666955222000107-main.pdf",
+    "repository_path": "research-materials/literature/energy-and-occupancy/1-s2.0-S2666955222000107-main.pdf",
+    "organised_path": "literature/energy-and-occupancy/1-s2.0-S2666955222000107-main.pdf",
+    "bytes": 3411204,
+    "sha256": "7fd6fa05732b4a5818970b6811c41a99e5794ba1dff8a1382e11af1a6c7693e5"
+  },
+  {
+    "original": "Contextualising-household-water-consumption-patterns-i_2023_Cleaner-and-Resp.pdf",
+    "repository_path": "research-materials/literature/contextual/Contextualising-household-water-consumption-patterns-i_2023_Cleaner-and-Resp.pdf",
+    "organised_path": "literature/contextual/Contextualising-household-water-consumption-patterns-i_2023_Cleaner-and-Resp.pdf",
+    "bytes": 15138722,
+    "sha256": "3b392d0112de581b691896875dc656c4c700c809ddd6937e636860f4edf286c9"
+  },
+  {
+    "original": "Determinants-of-high-electricity-use-and-high-energy-consumptio_2018_Energy-.pdf",
+    "repository_path": "research-materials/literature/energy-and-occupancy/Determinants-of-high-electricity-use-and-high-energy-consumptio_2018_Energy-.pdf",
+    "organised_path": "literature/energy-and-occupancy/Determinants-of-high-electricity-use-and-high-energy-consumptio_2018_Energy-.pdf",
+    "bytes": 462087,
+    "sha256": "28f283c540e886ea77b6daa715850f0fcbfe572be52f4267f28d3f2649b2879b"
+  },
+  {
+    "original": "Energy customer details.xlsx",
+    "repository_path": "research-materials/supporting-spreadsheets/Energy customer details.xlsx",
+    "organised_path": "supporting-spreadsheets/Energy customer details.xlsx",
+    "bytes": 24268,
+    "sha256": "278a5af87e01b1dac1b66a58735fc83bd005368913c391894cc2d9322ad84825"
+  },
+  {
+    "original": "Fair AI Questionarries .docx",
+    "repository_path": "research-materials/source-documents/Fair AI Questionarries .docx",
+    "organised_path": "source-documents/Fair AI Questionarries .docx",
+    "bytes": 19372,
+    "sha256": "202e2604146a0665b40408cf356df5bfd0c59973a73690de17fbacfea948cb1a"
+  },
+  {
+    "original": "Fair AI Questionarries_updated.docx",
+    "repository_path": "research-materials/source-documents/Fair AI Questionarries_updated.docx",
+    "organised_path": "source-documents/Fair AI Questionarries_updated.docx",
+    "bytes": 35852,
+    "sha256": "33b42b3a54873665cdea4407490e76ab5538f56703a8fa8c1e63556f186646d1"
+  },
+  {
+    "original": "Fair AI model for household energy consumption prediction.docx",
+    "repository_path": "research-materials/source-documents/Fair AI model for household energy consumption prediction.docx",
+    "organised_path": "source-documents/Fair AI model for household energy consumption prediction.docx",
+    "bytes": 15752,
+    "sha256": "26f1256ccfad8f276d37c0d0ad1d1a663bda850a4ec8a7b42e1bed4a312d3e19"
+  },
+  {
+    "original": "Final one Fair AI Questionarries .docx",
+    "repository_path": "research-materials/source-documents/Final one Fair AI Questionarries .docx",
+    "organised_path": "source-documents/Final one Fair AI Questionarries .docx",
+    "bytes": 35379,
+    "sha256": "715ae516ea88d9041b00bb1fc4fc8561e959fe1a6e524748596c1dd163230312"
+  },
+  {
+    "original": "House-and-socio-demographic-features-vs--electricity-consum_2024_The-Electri.pdf",
+    "repository_path": "research-materials/literature/energy-and-occupancy/House-and-socio-demographic-features-vs--electricity-consum_2024_The-Electri.pdf",
+    "organised_path": "literature/energy-and-occupancy/House-and-socio-demographic-features-vs--electricity-consum_2024_The-Electri.pdf",
+    "bytes": 2517202,
+    "sha256": "06b99e9f7db3c6ede1e15330e7a5009f8502c0172a05459c0773ffb442ba51f3"
+  },
+  {
+    "original": "Household energy consumption  a study of the role of occupants.pdf",
+    "repository_path": "research-materials/literature/energy-and-occupancy/Household energy consumption  a study of the role of occupants.pdf",
+    "organised_path": "literature/energy-and-occupancy/Household energy consumption  a study of the role of occupants.pdf",
+    "bytes": 455208,
+    "sha256": "9ec73f1a69cb2531169509cd04388258a865499456ff0871d1ac0ed056d2aad1"
+  },
+  {
+    "original": "Household--sociodemographic--building-and-land-cover-factors-affecti_2024_En.pdf",
+    "repository_path": "research-materials/literature/energy-and-occupancy/Household--sociodemographic--building-and-land-cover-factors-affecti_2024_En.pdf",
+    "organised_path": "literature/energy-and-occupancy/Household--sociodemographic--building-and-land-cover-factors-affecti_2024_En.pdf",
+    "bytes": 3689117,
+    "sha256": "7400e70aabd4a853a7025af0e950e311916a28c7e2a1525a09ed9721ed0285e2"
+  },
+  {
+    "original": "The-impact-of-socio-demographic-factors-on-occupants--thermal_2023_Building-.pdf",
+    "repository_path": "research-materials/literature/energy-and-occupancy/The-impact-of-socio-demographic-factors-on-occupants--thermal_2023_Building-.pdf",
+    "organised_path": "literature/energy-and-occupancy/The-impact-of-socio-demographic-factors-on-occupants--thermal_2023_Building-.pdf",
+    "bytes": 6791035,
+    "sha256": "9717ebe26057dfe005bdef8fa4eb65e22da727e9857abafb4175e8e78d2df128"
+  },
+  {
+    "original": "The-role-of-socio-demographic-and-economic-characteri_2023_Journal-of-Buildi.pdf",
+    "repository_path": "research-materials/literature/energy-and-occupancy/The-role-of-socio-demographic-and-economic-characteri_2023_Journal-of-Buildi.pdf",
+    "organised_path": "literature/energy-and-occupancy/The-role-of-socio-demographic-and-economic-characteri_2023_Journal-of-Buildi.pdf",
+    "bytes": 3361784,
+    "sha256": "138b4fc93d9152bfbc7fab13c07aac72c5cb4c862cccbc659fca65bc83134d7b"
+  },
+  {
+    "original": "The-socio-economic--dwelling-and-appliance-related-f_2015_Renewable-and-Sust.pdf",
+    "repository_path": "research-materials/literature/energy-and-occupancy/The-socio-economic--dwelling-and-appliance-related-f_2015_Renewable-and-Sust.pdf",
+    "organised_path": "literature/energy-and-occupancy/The-socio-economic--dwelling-and-appliance-related-f_2015_Renewable-and-Sust.pdf",
+    "bytes": 430736,
+    "sha256": "f5f1bb17161151389189c00eaa3694f900135dda707ffcbb914ddbe50f651e61"
+  },
+  {
+    "original": "Understanding-electricity-consumption--A-comparative-contributio_2016_Applie.pdf",
+    "repository_path": "research-materials/literature/energy-and-occupancy/Understanding-electricity-consumption--A-comparative-contributio_2016_Applie.pdf",
+    "organised_path": "literature/energy-and-occupancy/Understanding-electricity-consumption--A-comparative-contributio_2016_Applie.pdf",
+    "bytes": 680751,
+    "sha256": "e87ed5f923e09f55febda0a7b6b7cbf8757037d6b7f1d22fb163009f2501a6f6"
+  },
+  {
+    "original": "Untangling-the-impact-of-socio-demographic-factors-on-ene_2022_Energy-for-Su.pdf",
+    "repository_path": "research-materials/literature/energy-and-occupancy/Untangling-the-impact-of-socio-demographic-factors-on-ene_2022_Energy-for-Su.pdf",
+    "organised_path": "literature/energy-and-occupancy/Untangling-the-impact-of-socio-demographic-factors-on-ene_2022_Energy-for-Su.pdf",
+    "bytes": 1352455,
+    "sha256": "4f28085501cc9925b3ee6c23ea8b0dac45dbde68372a79fbea21ebab9bd9a944"
+  },
+  {
+    "original": "What-psychological-and-socio-demographic-factors-_2025_Transportation-Resear.pdf",
+    "repository_path": "research-materials/literature/contextual/What-psychological-and-socio-demographic-factors-_2025_Transportation-Resear.pdf",
+    "organised_path": "literature/contextual/What-psychological-and-socio-demographic-factors-_2025_Transportation-Resear.pdf",
+    "bytes": 5000455,
+    "sha256": "bc1330a659cf5a0e722714742781c2032f20f7c1041129372eb9e38065be31b0"
+  },
+  {
+    "original": "Who-pays-more--An-assessment-of-housing-and-population-char_2025_Energy-and-.pdf",
+    "repository_path": "research-materials/literature/energy-and-occupancy/Who-pays-more--An-assessment-of-housing-and-population-char_2025_Energy-and-.pdf",
+    "organised_path": "literature/energy-and-occupancy/Who-pays-more--An-assessment-of-housing-and-population-char_2025_Energy-and-.pdf",
+    "bytes": 5494146,
+    "sha256": "8d1dc1d5b91ee7416844062df19a9dbaea245b1d32f8e1a5224e3db907d480e6"
+  },
+  {
+    "original": "Whose-house-is-on-fire--Identifying-socio-demographic-and-hou_2023_Ecologica.pdf",
+    "repository_path": "research-materials/literature/energy-and-occupancy/Whose-house-is-on-fire--Identifying-socio-demographic-and-hou_2023_Ecologica.pdf",
+    "organised_path": "literature/energy-and-occupancy/Whose-house-is-on-fire--Identifying-socio-demographic-and-hou_2023_Ecologica.pdf",
+    "bytes": 1101958,
+    "sha256": "3558fdd97699bf17bf6f15e96b2461273fe07ff32acbbfbad94016b4d946f6a6"
+  },
+  {
+    "original": "~$ir AI Questionarries_updated.docx",
+    "repository_path": "research-materials/local-metadata/~$ir AI Questionarries_updated.docx",
+    "organised_path": "local-metadata/~$ir AI Questionarries_updated.docx",
+    "bytes": 162,
+    "sha256": "f7da382110c187acb43fd51fbd6a600c0df1cbc4b8a73363445b376b6bb273fb"
+  }
+]
